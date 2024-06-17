@@ -19,15 +19,21 @@
         height: 260px;
         display: inline-block;
         padding: 20px;
-        margin: 20px;
-        border: 5px solid #27573c
+        margin: 25px;
+        border: 5px solid #27573c;
+        overflow: hidden;
     }
 
     .box1{
         background-color:rgb(60, 210, 30);
+        border-radius: 0 70% 0 10px;
     }
     .box2{
         background-color:rgb(119, 0, 255);
+        border-radius: 50%;
+        line-height: 200px;
+        text-align: 
+        ;
     }
     .box3{
             background-color:cornflowerblue;

@@ -1,0 +1,35 @@
+*,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 900px;
+    background-color:rgb(204, 0, 255);
+    margin: 0;
+    bottom: 0;
+    }
+
+    .box{
+        width: 260px;
+        height: 260px;
+        display: inline-block;
+        padding: 20px;
+        margin: 20px;
+        border: 5px solid #27573c
+    }
+
+    .box1{
+        background-color:rgb(60, 210, 30);
+    }
+    .box2{
+        background-color:rgb(119, 0, 255);
+    }
+    .box3{
+            background-color:cornflowerblue;
+    }
+
